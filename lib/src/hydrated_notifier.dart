@@ -1,8 +1,8 @@
 import 'dart:async';
 
 import 'package:flutter/foundation.dart';
-import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:hydrated_notifier/src/hydrated_storage.dart';
+import 'package:state_notifier/state_notifier.dart';
 
 /// Specialized [StateNotifier] which handles initializing the state
 /// based on the persisted state. This allows state to be persisted
