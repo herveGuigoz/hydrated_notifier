@@ -1,6 +1,6 @@
 name: hydrated_notifier
 description: An extension to the state_notifier library which automatically persists and restores states.
-version: 1.0.0
+version: 1.0.1
 repository: https://github.com/herveGuigoz/hydrated_notifier
 
 environment:
